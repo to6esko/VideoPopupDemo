@@ -16,14 +16,14 @@ html,body{
 .btn-left .btn-right .border-bottom .commentBox .comment .contentText 
 .border-bottom .textBox .text .gradient .commentText .footer 
 .btn-footer .btn-footer-right .footerBottom .footer-btn .reply 
-.reply-comment .piramida .commentContent .enter .delete{
+.reply-comment .pyramid .commentContent .enter .delete{
     zoom:1;
 }
 .pop .pop-form .pop-input .pop-btn .btn .video .video-container 
 .btn-left .btn-right .border-bottom .commentBox .comment .contentText
 .border-bottom .textBox .text .gradient .commentText .footer
 .btn-footer .btn-footer-right .footerBottom .footer-btn .reply 
-.reply-comment .piramida .commentContent .enter .delete {
+.reply-comment .pyramid .commentContent .enter .delete {
     content: "";
     clear: both;
     display: block;
@@ -95,7 +95,7 @@ li img:hover{
     width: 350px;
     height: 200px;
     top: 110px;
-    left:32%;
+    left:35%;
     background-color: white;
     border:1px solid #e6e6e6;
     border-radius: 5px; 
@@ -335,7 +335,7 @@ li img:hover{
     box-sizing: border-box;
 }
 
-.piramida{
+.pyramid{
     position: absolute;
     left:24px;
     top:-4px;
@@ -344,6 +344,7 @@ li img:hover{
 .commentContent {
     font-family: Myriad Pro Regular;
     color: #192a3e;
+    font-size: 13pt;
     height: 40px;
     word-wrap: break-word;
     padding:0 0 0 20px;
