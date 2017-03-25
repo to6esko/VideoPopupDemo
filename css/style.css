@@ -64,7 +64,7 @@ a.close-icon {
     text-decoration: none;
     font-size: 19px;
     font-weight: bold;
-    display: inline-block;
+    display: block;
     float: right;
     line-height: 0px;
     padding: 10px 5px;       
@@ -121,7 +121,6 @@ li img:hover{
 }
 
 .video{
-    position:relative;
     margin: 31px 29px 0 32px;
     width: 806px;
     height: 412px;
